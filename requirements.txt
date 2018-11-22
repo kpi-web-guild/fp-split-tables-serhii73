@@ -1,0 +1,4 @@
+Faker==0.9.0
+pre-commit==1.12.0
+-e git+https://github.com/bosswissam/pysize.git#egg=pysize
+pytest==3.8.0
